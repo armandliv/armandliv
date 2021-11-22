@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Armand
 - 🥰 I love competitive programming
-- 🦁 I’m interested in sports, science, music and especially programming
+- 🦁 I’m interested in sports, science, music, movies and especially programming
 - ✔ https://codeforces.com/profile/NaBeleaua
 - ✔ https://codeforces.com/profile/gheorghe_armand
 
